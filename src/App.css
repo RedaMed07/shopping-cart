@@ -1,3 +1,15 @@
+@font-face{
+  font-family: a;
+  src: url(/public/fonts/Poppins-Regular.ttf);
+}
+@font-face{
+  font-family: b;
+  src: url(/public/fonts/Poppins-Medium.ttf);
+}
+body{
+  font-family: a;
+}
+
 .App {
   text-align: center;
 }
